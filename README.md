@@ -13,4 +13,4 @@ In here I have created a sample web page using Python Django. This web page is j
 
 ![Sample Website - Google Chrome 15-03-2023 09_24_13](https://user-images.githubusercontent.com/85097081/225377645-a7ae4abb-f983-4228-b440-b9a792b1c2b0.png)
 
-For any queries you guys can contact through my website given on my profile.
+For any queries, you can contact through my website given on my profile.
